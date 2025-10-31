@@ -1,0 +1,85 @@
+MIT License (修改版)
+
+版权所有 (c) 2025 自动打卡程序
+
+特此免费授予任何获得本软件副本和相关文档文件（以下简称"软件"）的人不受限制地处置该软件的权利，
+包括但不限于使用、复制、修改、合并、发布、分发、再许可和/或出售该软件副本的权利，
+以及再授权被配发了本软件的人如上的权利，须在下列条件下：
+
+上述版权声明和本许可声明应包含在该软件的所有副本或实质成分中。
+
+====================================================================================
+重要声明 / IMPORTANT NOTICE
+====================================================================================
+
+⚠️  本软件仅供学习和技术交流使用
+
+⚠️  使用此程序可能违反学校、机构或组织的规章制度
+
+⚠️  由此产生的任何后果（包括但不限于纪律处分、学业影响、法律责任等）完全由用户自行承担
+
+⚠️  作者和贡献者不对因使用本软件而产生的任何直接或间接损失承担责任
+
+使用本软件即表示您已充分理解并同意：
+
+1. 本软件仅用于学习Python编程、网络请求、任务调度等技术知识
+2. 您将自行评估使用本软件的合规性和风险
+3. 您不会将本软件用于任何违反规章制度、法律法规的用途
+4. 您对使用本软件的一切后果承担完全责任
+5. 作者不提供任何形式的担保，包括适用性、可靠性等
+
+====================================================================================
+
+本软件按"原样"提供，不提供任何形式的明示或暗示的保证，包括但不限于对适销性、特定用途的适用性和不侵权的保证。
+在任何情况下，作者或版权所有人都不对任何索赔、损害或其他责任负责，无论这些追责来自合同、侵权或其它行为中，
+还是产生于、源于或有关于本软件以及本软件的使用或其它处置。
+
+====================================================================================
+
+Copyright (c) 2025 Auto Punch-in Program
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+====================================================================================
+DISCLAIMER
+====================================================================================
+
+⚠️  THIS SOFTWARE IS FOR EDUCATIONAL AND TECHNICAL LEARNING PURPOSES ONLY
+
+⚠️  USE OF THIS PROGRAM MAY VIOLATE SCHOOL, INSTITUTIONAL, OR ORGANIZATIONAL RULES
+
+⚠️  ALL CONSEQUENCES (INCLUDING BUT NOT LIMITED TO DISCIPLINARY ACTION, ACADEMIC 
+    IMPACT, LEGAL LIABILITY, ETC.) ARISING FROM USE ARE SOLELY THE USER'S 
+    RESPONSIBILITY
+
+⚠️  THE AUTHORS AND CONTRIBUTORS ARE NOT LIABLE FOR ANY DIRECT OR INDIRECT DAMAGES 
+    RESULTING FROM THE USE OF THIS SOFTWARE
+
+By using this software, you acknowledge and agree that:
+
+1. This software is solely for learning Python programming, network requests, 
+   task scheduling, and related technical knowledge
+2. You will independently assess the compliance and risks of using this software
+3. You will not use this software for any purposes that violate rules, regulations, 
+   or laws
+4. You assume full responsibility for all consequences of using this software
+5. The authors provide no warranties of any kind, including merchantability or 
+   reliability
+
+====================================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

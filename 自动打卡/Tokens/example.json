@@ -1,0 +1,9 @@
+{
+    "Email": "user@example.com",
+    "Token": "",
+    "ThreadId": 123456789,
+    "Location": {
+        "coordinates": "{\"latitude\":45.98765432109876,\"longitude\":120.9865432109876}",
+        "text": "xxx省•xx市•xx县(区)•xxx"
+    }
+}
